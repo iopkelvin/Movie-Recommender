@@ -1,0 +1,15 @@
+data/movies.csv
+data/tags.csv
+data/ratings.csv
+data/links.csv
+model/cosine.pkl
+processed_data/ratings_content.csv
+processed_data/movies_content.csv
+processed_data/ratings_std.csv
+processed_data/movies_short.csv
+processed_data/merged_movies_tags.csv
+Flask app/models/movies_preprocessed.csv
+Flask app/models/merged_movies_tags.csv
+Flask app/models/model_4std_20emb_15po.h5
+Flask app/models/cosine.pkl
+
